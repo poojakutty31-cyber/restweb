@@ -29,9 +29,9 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 
-
+Include your program
 ## OUTPUT:
-
+Include the Screenshot
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
